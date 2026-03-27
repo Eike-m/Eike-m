@@ -17,7 +17,7 @@
  
 ## 📂 Projektid
  
-- [**DACA Portfoolio**](https://github.com/anna-mets/daca-portfolio) - 11-nädalane õppeprojektid
+- [**DACA Portfoolio**](https://github.com/Eike-m/daca-portfolio) - 11-nädalane õppeprojektid
  
 ## 📫 Kontakt
  
