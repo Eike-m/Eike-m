@@ -22,7 +22,7 @@
 ## 📫 Kontakt
  
 - **Email:** eikemarkus2@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/eike-markus-997761153/)
+- **LinkedIn:** www.linkedin.com/in/eikemarkus
 ---
  
 _"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
